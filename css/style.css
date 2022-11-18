@@ -1,0 +1,45 @@
+body {
+  background-color: hsl(0, 0%, 100%);
+  padding: 40px 100px 40px 100px;
+  margin: 0;
+}
+h3{
+
+  font-family: 'Outfit', sans-serif;
+
+}
+
+p {
+  font-size: 15px;
+  color: gray;
+  /* font-family: 'Outfit', sans-serif; */
+}
+
+
+.top-container {
+  text-align: center;
+  background-color: hsl(220, 15%, 55%);
+  padding-top: 120px;
+  padding-bottom: 120px;
+
+}
+
+.card {
+  background-color: white;
+  width: 25%;
+  margin: auto;
+  border-radius: 20px;
+  padding: 20px 0;
+
+}
+
+.container{
+  padding: 2px 16px;
+  text-align: center;
+  margin-top: 20px;
+}
+.qr-img {
+  width: 80%;
+  margin: auto;
+  border-radius: 10px;
+}
